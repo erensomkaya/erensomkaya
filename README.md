@@ -6,9 +6,9 @@
 
 - 🔭 [CV](https://github.com/erensomkaya/CV)
 
-- 👨‍💻 All of my projects are available at [https://github.com/erensomkaya](https://github.com/erensomkaya)
+- 👨‍💻 All of my projects are available at (https://github.com/erensomkaya)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/eren-somkaya-10a143234/](https://www.linkedin.com/in/eren-somkaya-10a143234/)
+- 📝 I regularly write articles on (https://www.linkedin.com/in/eren-somkaya-10a143234/)
 
 - 📫 How to reach me **erensomkaya0@gmail.com**
 
