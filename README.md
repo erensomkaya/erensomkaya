@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eren somkaya" target="blank"><img align="center"  alt="eren somkaya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eren-somkaya-10a143234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren somkaya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/eren9638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eren9638" height="30" width="40" /></a>
 </p>
 
