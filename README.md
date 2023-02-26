@@ -6,16 +6,16 @@
 
 - 🔭 [CV](https://github.com/erensomkaya/CV)
 
-- 👨‍💻 All of my projects are available at (https://github.com/erensomkaya)
+- 👨‍💻 All of my projects are available at [https://github.com/erensomkaya] (https://github.com/erensomkaya)
 
-- 📝 I regularly write articles on (https://www.linkedin.com/in/eren-somkaya-10a143234/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/eren-somkaya-10a143234/]  (https://www.linkedin.com/in/eren-somkaya-10a143234/)
 
 - 📫 How to reach me **erensomkaya0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eren-somkaya-10a143234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren somkaya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/eren9638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eren9638" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19688783/eren9638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eren9638" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
